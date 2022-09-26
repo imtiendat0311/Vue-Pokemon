@@ -1,4 +1,6 @@
 # pokemon
+## Desc
+app using poki api to get pokemon information only 20 first 
 
 ## Project setup
 ```
